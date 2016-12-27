@@ -1,0 +1,12 @@
+D:\Selasa_141111758_Charles\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\Selasa_141111758_Charles\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+D:\Selasa_141111758_Charles\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
+D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+F:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+F:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+F:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\Latihan_5_1\obj\Debug\Latihan_5_1.pdb

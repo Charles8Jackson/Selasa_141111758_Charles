@@ -1,0 +1,9 @@
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\bin\Debug\Latihan_3_1TextEditor.exe.config
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\bin\Debug\Latihan_3_1TextEditor.exe
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\bin\Debug\Latihan_3_1TextEditor.pdb
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.csprojResolveAssemblyReference.cache
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.Form1.resources
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.Properties.Resources.resources
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.csproj.GenerateResource.Cache
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.exe
+D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.pdb

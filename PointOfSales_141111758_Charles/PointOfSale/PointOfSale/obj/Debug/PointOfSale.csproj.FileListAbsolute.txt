@@ -1,0 +1,27 @@
+F:\Charles files\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+F:\Charles files\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+F:\Charles files\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+F:\Charles files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+F:\Charles files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Barang.resources
+F:\Charles files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+F:\Charles files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+F:\Charles files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+F:\Charles files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+F:\Charles files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+F:\Charles files\PointOfSale\PointOfSale\bin\Debug\MySql.Data.dll
+F:\Charles files\PointOfSale\PointOfSale\bin\Debug\MySql.Data.xml
+D:\Selasa_141111758_Charles\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\Selasa_141111758_Charles\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+D:\Selasa_141111758_Charles\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\bin\Debug\MySql.Data.dll
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\bin\Debug\MySql.Data.xml
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Barang.resources
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\PointOfSales_141111758_Charles\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache

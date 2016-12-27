@@ -1,0 +1,12 @@
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\bin\Debug\Latihan_1_1TabIcon.exe.config
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\bin\Debug\Latihan_1_1TabIcon.exe
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\bin\Debug\Latihan_1_1TabIcon.pdb
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.csprojResolveAssemblyReference.cache
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.Form1.resources
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.Properties.Resources.resources
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.csproj.GenerateResource.Cache
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.exe
+D:\latihan code\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.pdb
+D:\Selasa_141111758_Charles\Latihan_1_1TabIcon\bin\Debug\Latihan_1_1TabIcon.exe.config
+D:\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.exe
+D:\Selasa_141111758_Charles\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.pdb

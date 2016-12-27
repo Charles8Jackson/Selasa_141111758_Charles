@@ -1,0 +1,12 @@
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\bin\Debug\Latihan_4_1MenuStrip.exe.config
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\bin\Debug\Latihan_4_1MenuStrip.exe
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\bin\Debug\Latihan_4_1MenuStrip.pdb
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.csprojResolveAssemblyReference.cache
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.Form1.resources
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.Properties.Resources.resources
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.csproj.GenerateResource.Cache
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.exe
+D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.pdb
+F:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\Latihan_4_1MenuStrip\bin\Debug\Latihan_4_1MenuStrip.exe.config
+F:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.exe
+F:\Charles files\KULIAH\V\.Net Framework Lanjutan\data tugas framework smster 5\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.pdb

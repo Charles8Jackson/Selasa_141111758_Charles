@@ -1,0 +1,12 @@
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\bin\Debug\Selasa_141111758_Charles.exe.config
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\bin\Debug\Selasa_141111758_Charles.exe
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\bin\Debug\Selasa_141111758_Charles.pdb
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.csprojResolveAssemblyReference.cache
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.Form1.resources
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.Properties.Resources.resources
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.csproj.GenerateResource.Cache
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.exe
+D:\latihan code\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.pdb
+D:\Selasa_141111758_Charles\Selasa_141111758_Charles\bin\Debug\Selasa_141111758_Charles.exe.config
+D:\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.exe
+D:\Selasa_141111758_Charles\Selasa_141111758_Charles\obj\Debug\Selasa_141111758_Charles.pdb

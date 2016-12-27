@@ -1,0 +1,12 @@
+F:\Charles files\volleyBall_problem\volleyBall_problem\bin\Debug\volleyBall_problem.exe.config
+F:\Charles files\volleyBall_problem\volleyBall_problem\bin\Debug\volleyBall_problem.exe
+F:\Charles files\volleyBall_problem\volleyBall_problem\bin\Debug\volleyBall_problem.pdb
+F:\Charles files\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.csprojResolveAssemblyReference.cache
+F:\Charles files\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.Form1.resources
+F:\Charles files\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.Properties.Resources.resources
+F:\Charles files\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.csproj.GenerateResource.Cache
+F:\Charles files\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.exe
+F:\Charles files\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.pdb
+D:\Selasa_141111758_Charles\volleyBall_problem\volleyBall_problem\bin\Debug\volleyBall_problem.exe.config
+D:\Selasa_141111758_Charles\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.exe
+D:\Selasa_141111758_Charles\volleyBall_problem\volleyBall_problem\obj\Debug\volleyBall_problem.pdb

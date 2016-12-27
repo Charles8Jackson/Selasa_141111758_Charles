@@ -1,0 +1,9 @@
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\bin\Debug\Latihan_2_1MonthCalendar.exe.config
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\bin\Debug\Latihan_2_1MonthCalendar.exe
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\bin\Debug\Latihan_2_1MonthCalendar.pdb
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.csprojResolveAssemblyReference.cache
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.Form1.resources
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.Properties.Resources.resources
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.csproj.GenerateResource.Cache
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.exe
+D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.pdb
