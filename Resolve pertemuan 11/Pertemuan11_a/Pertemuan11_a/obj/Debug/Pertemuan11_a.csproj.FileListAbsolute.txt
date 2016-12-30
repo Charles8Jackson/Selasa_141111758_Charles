@@ -1,0 +1,29 @@
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.pdb
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\MySql.Data.dll
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\MySql.Web.dll
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csprojResolveAssemblyReference.cache
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Form1.resources
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csproj.GenerateResource.Cache
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csprojResolveAssemblyReference.cache
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Form1.resources
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csproj.GenerateResource.Cache
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.pdb
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csprojResolveAssemblyReference.cache
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Form1.resources
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+G:\Charles files\KULIAH\V\.Net Framework Lanjutan\tugas akhir\Resolve pertemuan 11\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csproj.GenerateResource.Cache
